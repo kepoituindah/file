@@ -1,0 +1,120 @@
+08-28 06:17:52.745   536   536 D TlcTeeKeyMaster: TEE_Begin exiting with 0
+08-28 06:17:52.745   536   536 D TlcTeeKeyMaster: TEE_Update
+08-28 06:17:52.745   536   536 D TlcTeeKeyMaster: split_update_chunks
+08-28 06:20:20.206   772   849 I libPowerHal: [perfNotifyAppState] pack:com.android.mms, act:com.android.mms, state:3, pid:6745, uid:10086, fps:60
+08-28 06:20:20.206   772   849 I libPowerHal: [perfNotifyAppState] pack:com.android.mms, pid:6745, STATE_DEAD
+08-28 06:20:49.745   772   800 E libPowerHal: [getHintRscSize] hint_id 1160 cannot be found in PowerScnTbl
+08-28 06:21:20.209   772   849 I libPowerHal: [perfNotifyAppState] pack:com.facebook.appmanager, act:com.facebook.appmanager, state:3, pid:7453, uid:10131, fps:-1
+08-28 06:21:20.209   772   849 I libPowerHal: [perfNotifyAppState] pack:com.facebook.appmanager, pid:7453, STATE_DEAD
+08-28 06:23:37.745   772   849 I libPowerHal: [PE] MTKPOWER_HINT_APP_TOUCH update cmd:3408600 param:1
+08-28 06:24:24.745   772   849 I mtkpower@impl: [powerd_req] TIMER_MSG_PERF_LOCK_TIMEOUT hdl:261
+08-28 06:24:24.745   772   849 I libPowerHal: [perfLockRel] hdl:261, idx:3
+08-28 06:32:27.343   772   849 I libPowerHal: [perfLockAcq] idx:0 hdl:745 hint:25 pid:772 duration:10000 lock_user:mtkpower@1.0-se => ret_hdl:745
+08-28 06:32:31.071   772   849 I libPowerHal: [perfLockRel] hdl:745, idx:0
+08-28 06:37:45.745   772   849 I libPowerHal: [PD] MTKPOWER_HINT_APP_TOUCH update cmd:3408600 param:0
+08-28 06:41:14.745   772   849 I libPowerHal: [perfLockRel] hdl:1300, idx:0
+08-28 06:41:14.745   772   849 I libPowerHal: [PD] MTKPOWER_HINT_APP_TOUCH update cmd:3408600 param:0
+08-28 06:47:16.745   772   849 I libPowerHal: [perfLockAcq] idx:0 hdl:1671 hint:25 pid:772 duration:10000 lock_user:mtkpower@1.0-se => ret_hdl:1671
+08-28 06:47:16.745   772   849 I libPowerHal: [PE] MTKPOWER_HINT_APP_TOUCH update cmd:3408600 param:1
+08-28 06:48:02.024   772   849 I libPowerHal: [perfLockAcq] idx:0 hdl:1745 hint:25 pid:772 duration:10000 lock_user:mtkpower@1.0-se => ret_hdl:1745
+08-28 06:48:02.141   772   849 I libPowerHal: [perfLockRel] hdl:1745, idx:0
+08-28 06:52:51.745   772   849 I libPowerHal: [perfLockAcq] idx:0 hdl:2149 hint:25 pid:772 duration:10000 lock_user:mtkpower@1.0-se => ret_hdl:2149
+08-28 06:52:51.745   772   849 I libPowerHal: [PE] MTKPOWER_HINT_APP_TOUCH update cmd:3408600 param:1
+08-28 06:59:05.745   772   835 I libPowerHal: [updateFPS] pid(13514) : 60 => -1
+08-28 06:59:05.745   772   849 I libPowerHal: [perfNotifyAppState] pack:com.mobile.legends, act:com.moba.unityplugin.MobaGameUnityActivity, state:5, pid:13514, uid:10002, fps:-1
+08-28 06:59:07.745   772   835 I libPowerHal: [updateFPS] pid(13514) : -1 => 60
+08-28 06:59:07.745   772   849 I libPowerHal: [perfNotifyAppState] pack:com.mobile.legends, act:com.moba.unityplugin.MobaGameUnityActivity, state:5, pid:13514, uid:10002, fps:60
+08-28 06:59:08.745   772   835 I libPowerHal: [updateFPS] pid(13514) : 60 => -1
+08-28 06:59:09.745   772   835 I libPowerHal: [updateFPS] pid(13514) : -1 => 60
+08-28 07:34:11.894   772   849 I libPowerHal: [perfLockAcq] idx:0 hdl:2745 hint:25 pid:772 duration:10000 lock_user:mtkpower@1.0-se => ret_hdl:2745
+08-28 07:34:12.026   772   849 I libPowerHal: [perfLockRel] hdl:2745, idx:0
+08-28 07:35:05.745   772   800 E libPowerHal: [getHintRscSize] hint_id 1180 cannot be found in PowerScnTbl
+08-28 07:35:05.745   772   800 E mtkpower@impl: Cannot allocate memory for newMsg.rsc
+08-28 07:35:07.745   772   849 I mtkpower@impl: [powerd_req] TIMER_MSG_PERF_LOCK_TIMEOUT hdl:2832
+08-28 07:35:07.745   772   849 I libPowerHal: [perfLockRel] hdl:2832, idx:1
+08-28 10:13:58.745   772   849 I libPowerHal: [perfLockAcq] idx:1 hdl:2956 hint:1150 pid:823 duration:2000 lock_user:vperf@1.0-servi => ret_hdl:2956
+08-28 10:13:58.745   772   849 I libPowerHal: [PE] 1150 update cmd:1000000, param:0
+08-28 10:13:58.745   772   849 I libPowerHal: [PE] 1150 update cmd:2020000, param:15
+08-28 10:14:19.745   772   849 I libPowerHal: [perfLockRel] hdl:3005, idx:1
+08-28 10:15:14.745   823   823 I mtkpower_client: perf_lock_rel, hdl:3060, tid:823
+08-28 10:23:29.001   772   849 I libPowerHal: [perfLockAcq] idx:0 hdl:3745 hint:1155 pid:823 duration:2268 lock_user:vperf@1.0-servi => ret_hdl:3745
+08-28 10:23:29.850   823   823 I mtkpower_client: perf_lock_rel, hdl:3745, tid:823
+08-28 10:23:29.852   772   849 I libPowerHal: [perfLockRel] hdl:3745, idx:0
+08-28 10:49:03.209   772   849 I libPowerHal: [perfLockAcq] idx:0 hdl:4745 hint:25 pid:772 duration:10000 lock_user:mtkpower@1.0-se => ret_hdl:4745
+08-28 10:49:03.292   772   849 I libPowerHal: [perfLockRel] hdl:4745, idx:0
+08-28 10:49:28.745   772   849 I libPowerHal: [perfLockAcq] idx:0 hdl:4756 hint:25 pid:772 duration:10000 lock_user:mtkpower@1.0-se => ret_hdl:4756
+08-28 10:49:28.745   772   849 I libPowerHal: [PE] MTKPOWER_HINT_APP_TOUCH update cmd:3408600 param:1
+08-28 10:51:05.745   772   849 I libPowerHal: [perfLockRel] hdl:4944, idx:0
+08-28 11:01:26.720   772   849 I libPowerHal: [perfLockAcq] idx:0 hdl:5745 hint:25 pid:772 duration:10000 lock_user:mtkpower@1.0-se => ret_hdl:5745
+08-28 11:01:26.836   772   849 I libPowerHal: [perfLockRel] hdl:5745, idx:0
+08-28 11:05:30.745   772   849 I libPowerHal: [perfLockAcq] idx:0 hdl:6087 hint:25 pid:772 duration:10000 lock_user:mtkpower@1.0-se => ret_hdl:6087
+08-28 11:05:30.745   772   849 I libPowerHal: [PE] MTKPOWER_HINT_APP_TOUCH update cmd:3408600 param:1
+08-28 11:10:51.745   772   849 I libPowerHal: [perfLockAcq] idx:0 hdl:6457 hint:25 pid:772 duration:10000 lock_user:mtkpower@1.0-se => ret_hdl:6457
+08-28 11:10:51.745   772   849 I libPowerHal: [PE] MTKPOWER_HINT_APP_TOUCH update cmd:3408600 param:1
+08-28 11:15:27.349   772   849 I libPowerHal: [perfLockAcq] idx:0 hdl:6745 hint:25 pid:772 duration:10000 lock_user:mtkpower@1.0-se => ret_hdl:6745
+08-28 11:15:27.481   772   849 I libPowerHal: [perfLockRel] hdl:6745, idx:0
+08-28 11:15:43.745   772   849 I libPowerHal: [perfLockRel] hdl:6787, idx:0
+08-28 11:16:39.745   772   849 I libPowerHal: [perfLockAcq] idx:0 hdl:6856 hint:25 pid:772 duration:10000 lock_user:mtkpower@1.0-se => ret_hdl:6856
+08-28 11:16:39.745   772   849 I libPowerHal: [PE] MTKPOWER_HINT_APP_TOUCH update cmd:3408600 param:1
+08-28 11:21:04.745   772   849 I libPowerHal: [perfLockAcq] idx:0 hdl:7032 hint:25 pid:772 duration:10000 lock_user:mtkpower@1.0-se => ret_hdl:7032
+08-28 11:26:19.745   772   849 I libPowerHal: [perfLockAcq] idx:4 hdl:7394 hint:1179 pid:823 duration:1000 lock_user:vperf@1.0-servi => ret_hdl:7394
+08-28 11:26:53.745   772   849 I libPowerHal: [PD] MTKPOWER_HINT_APP_TOUCH update cmd:3408600 param:0
+08-28 11:27:01.086   772   849 I libPowerHal: [perfLockAcq] idx:0 hdl:7450 hint:25 pid:772 duration:10000 lock_user:mtkpower@1.0-se => ret_hdl:7450
+08-28 11:27:01.219   772   849 I libPowerHal: [perfLockRel] hdl:7450, idx:0
+08-28 11:27:01.269   772   849 I libPowerHal: [perfLockAcq] idx:0 hdl:7451 hint:25 pid:772 duration:10000 lock_user:mtkpower@1.0-se => ret_hdl:7451
+08-28 11:27:01.385   772   849 I libPowerHal: [perfLockRel] hdl:7451, idx:0
+08-28 11:27:01.436   772   849 I libPowerHal: [perfLockAcq] idx:0 hdl:7452 hint:25 pid:772 duration:10000 lock_user:mtkpower@1.0-se => ret_hdl:7452
+08-28 11:27:01.551   772   849 I libPowerHal: [perfLockRel] hdl:7452, idx:0
+08-28 11:27:01.602   772   849 I libPowerHal: [perfLockAcq] idx:0 hdl:7453 hint:25 pid:772 duration:10000 lock_user:mtkpower@1.0-se => ret_hdl:7453
+08-28 11:27:01.718   772   849 I libPowerHal: [perfLockRel] hdl:7453, idx:0
+08-28 11:27:01.769   772   849 I libPowerHal: [perfLockAcq] idx:0 hdl:7454 hint:25 pid:772 duration:10000 lock_user:mtkpower@1.0-se => ret_hdl:7454
+08-28 11:27:01.885   772   849 I libPowerHal: [perfLockRel] hdl:7454, idx:0
+08-28 11:27:01.935   772   849 I libPowerHal: [perfLockAcq] idx:0 hdl:7455 hint:25 pid:772 duration:10000 lock_user:mtkpower@1.0-se => ret_hdl:7455
+08-28 11:27:02.067   772   849 I libPowerHal: [perfLockRel] hdl:7455, idx:0
+08-28 11:27:02.117   772   849 I libPowerHal: [perfLockAcq] idx:0 hdl:7456 hint:25 pid:772 duration:10000 lock_user:mtkpower@1.0-se => ret_hdl:7456
+08-28 11:27:02.234   772   849 I libPowerHal: [perfLockRel] hdl:7456, idx:0
+08-28 11:27:02.301   772   849 I libPowerHal: [perfLockAcq] idx:0 hdl:7457 hint:25 pid:772 duration:10000 lock_user:mtkpower@1.0-se => ret_hdl:7457
+08-28 11:27:02.434   772   849 I libPowerHal: [perfLockRel] hdl:7457, idx:0
+08-28 11:27:02.467   772   849 I libPowerHal: [perfLockAcq] idx:0 hdl:7458 hint:25 pid:772 duration:10000 lock_user:mtkpower@1.0-se => ret_hdl:7458
+08-28 11:27:02.600   772   849 I libPowerHal: [perfLockRel] hdl:7458, idx:0
+08-28 11:27:02.650   772   849 I libPowerHal: [perfLockAcq] idx:0 hdl:7459 hint:25 pid:772 duration:10000 lock_user:mtkpower@1.0-se => ret_hdl:7459
+08-28 11:27:03.832   772   849 I libPowerHal: [perfLockRel] hdl:7459, idx:0
+08-28 11:31:41.301   772   849 I libPowerHal: [perfLockAcq] idx:0 hdl:7745 hint:25 pid:772 duration:10000 lock_user:mtkpower@1.0-se => ret_hdl:7745
+08-28 11:31:41.433   772   849 I libPowerHal: [perfLockRel] hdl:7745, idx:0
+08-28 11:38:47.745   772   849 I libPowerHal: [perfLockAcq] idx:4 hdl:8313 hint:1179 pid:823 duration:1000 lock_user:vperf@1.0-servi => ret_hdl:8313
+08-28 11:38:47.745   772   849 I libPowerHal: [perfLockAcq] idx:5 hdl:8314 hint:1159 pid:823 duration:383 lock_user:vperf@1.0-servi => ret_hdl:8314
+08-28 11:43:50.745   772   849 I libPowerHal: [perfLockRel] hdl:8515, idx:0
+08-28 11:43:50.745   772   849 I libPowerHal: [PD] MTKPOWER_HINT_APP_TOUCH update cmd:3408600 param:0
+08-28 11:43:51.745   772   849 I libPowerHal: [PD] MTKPOWER_HINT_APP_TOUCH update cmd:3408600 param:0
+08-28 11:48:03.376   772   849 I libPowerHal: [perfLockAcq] idx:0 hdl:8745 hint:25 pid:772 duration:10000 lock_user:mtkpower@1.0-se => ret_hdl:8745
+08-28 11:48:03.443   772   849 I libPowerHal: [perfLockRel] hdl:8745, idx:0
+08-28 11:50:10.745   823 29156 I mtkpower_client: perf_lock_rel, hdl:8859, tid:29156
+08-28 12:06:49.745   772   849 I libPowerHal: 1157: cpu_ctrl set cpu freq: 1000000 -1 1000000 -1
+08-28 12:10:10.745   772   849 I libPowerHal: 1157: cpu_ctrl set cpu freq: 1000000 -1 1000000 -1
+08-28 12:11:11.745   772   849 I libPowerHal: [perfNotifyAppState] pack:com.vivo.gallery, act:com.android.gallery3d.vivo.NewPageActivity, state:0, pid:31064, uid:10170, fps:60
+08-28 12:13:34.745   772   802 I mtkpower@impl: [setMode] type:5, enabled:1
+08-28 12:13:34.745   772   849 I libPowerHal: [perfLockAcq] idx:1 hdl:9473 hint:11 pid:772 duration:30000 lock_user:mtkpower@1.0-se => ret_hdl:9473
+08-28 12:13:45.745   772   800 E mtkpower@impl: Cannot allocate memory for newMsg.rsc
+08-28 12:16:30.461   772   849 I libPowerHal: [perfLockAcq] idx:0 hdl:9745 hint:1157 pid:823 duration:80 lock_user:vperf@1.0-servi => ret_hdl:9745
+08-28 12:16:30.542   772   849 I mtkpower@impl: [powerd_req] TIMER_MSG_PERF_LOCK_TIMEOUT hdl:9745
+08-28 12:16:30.542   772   849 I libPowerHal: [perfLockRel] hdl:9745, idx:0
+08-28 12:16:30.561   823  4719 I mtkpower_client: perf_lock_rel, hdl:9745, tid:4719
+08-28 12:16:30.563   772   849 I libPowerHal: [perfLockRel] hdl:9745, idx:-1
+08-28 12:19:01.745   772   849 I libPowerHal: [perfLockAcq] idx:1 hdl:10100 hint:11 pid:772 duration:30000 lock_user:mtkpower@1.0-se => ret_hdl:10100
+08-28 12:29:51.165   772   849 I libPowerHal: [perfNotifyAppState] pack:com.vivo.browser, act:com.vivo.browser, state:3, pid:6745, uid:10081, fps:-1
+08-28 12:29:51.165   772   849 I libPowerHal: [perfNotifyAppState] pack:com.vivo.browser, pid:6745, STATE_DEAD
+08-28 12:30:11.745   772   849 I libPowerHal: [perfLockAcq] idx:2 hdl:10432 hint:1159 pid:823 duration:300 lock_user:vperf@1.0-servi => ret_hdl:10432
+08-28 12:32:21.745   772   849 I libPowerHal: [perfLockRel] hdl:10486, idx:-1
+08-28 13:01:19.745   772   849 I libPowerHal: 1157: cpu_ctrl set cpu freq: 1000000 -1 1000000 -1
+08-28 13:01:24.174   772   849 I libPowerHal: [perfLockAcq] idx:1 hdl:10745 hint:1157 pid:823 duration:80 lock_user:vperf@1.0-servi => ret_hdl:10745
+08-28 13:01:24.254   772   849 I mtkpower@impl: [powerd_req] TIMER_MSG_PERF_LOCK_TIMEOUT hdl:10745
+08-28 13:01:24.254   772   849 I libPowerHal: [perfLockRel] hdl:10745, idx:1
+08-28 13:01:24.274   823 10131 I mtkpower_client: perf_lock_rel, hdl:10745, tid:10131
+08-28 13:01:24.275   772   849 I libPowerHal: [perfLockRel] hdl:10745, idx:-1
+08-28 13:03:14.039   827   827 D APM_AudioPolicyManager: startOutput() output 13, stream 5, session 745
+08-28 13:13:01.745   772   849 I libPowerHal: [perfLockAcq] idx:0 hdl:10974 hint:1157 pid:823 duration:80 lock_user:vperf@1.0-servi => ret_hdl:10974
+08-28 13:13:21.745   823 11595 I mtkpower_client: perf_lock_rel, hdl:11131, tid:11595
+08-28 13:33:56.745   772   849 I libPowerHal: [perfLockAcq] idx:2 hdl:11415 hint:1173 pid:823 duration:0 lock_user:vperf@1.0-servi => ret_hdl:11415
+08-28 13:48:04.420   823 17458 I mtkpower_client: perf_lock_rel, hdl:11695, tid:17458
+08-28 14:39:24.865   772   849 I libPowerHal: [perfLockAcq] idx:0 hdl:11745 hint:25 pid:772 duration:10000 lock_user:mtkpower@1.0-se => ret_hdl:11745
+08-28 14:39:24.995   772   849 I libPowerHal: [perfLockRel] hdl:11745, idx:0
